@@ -13,7 +13,7 @@ func main() {
 	fmt.Printf("Виводжу прості числа вигляду q^2 + 1 від 2 до %d:\n", n)
 	print_all_Q_Pow_2_prime_numbers(n)
 	fmt.Println()
-	fmt.Printf("Виводжу прості числа Фібоначчі q^2 + 1 від 2 до %d:\n", n)
+	fmt.Printf("Виводжу прості числа Фібоначчі від 2 до %d:\n", n)
 	print_all_fibonacci_prime_numbers(n)
 }
 
