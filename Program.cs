@@ -13,7 +13,7 @@ namespace Program
       System.Console.WriteLine($"Виводжу прості числа вигляду q^2 + 1 від 2 до {n}:");
       PrintAllQPow2PrimeNumbers(n);
       System.Console.WriteLine();
-      System.Console.WriteLine($"Виводжу прості числа Фібоначчі1 від 2 до {n}:");
+      System.Console.WriteLine($"Виводжу прості числа Фібоначчі від 2 до {n}:");
       PrintAllFibonacciPrimeNumbers(n);
     }
 
